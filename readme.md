@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/72559785/136241483-11743faf-b13b-4cb7-aefa-af7d1f7f16c4.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Sachin Mehta</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachin Mehta</h1>
 <h3 align="center">I'm a passionate Learner from Nepal.</h3>
 
 
