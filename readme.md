@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on ***OpenSource Projects.***
 
-- 📫 How to reach me ***sachinkumarmehta874@gmail.com***
+- 📫 How to reach me ***sachinmehtaarts@gmail.com***
 
-- ⚡ Fun fact ***I play games.***
+- ⚡ Fun fact ***I do Animation***
 
 ## 🚀 Languages and Tools:
 
